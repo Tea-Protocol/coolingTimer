@@ -1,0 +1,24 @@
+{
+  "name": "@shawncvv/cooling-timer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "utils",
+    "time"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tea-Protocol/cooling-timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tea-Protocol/cooling-timer/issues"
+  },
+  "homepage": "https://github.com/Tea-Protocol/cooling-timer#readme",
+  "devDependencies": {}
+}
